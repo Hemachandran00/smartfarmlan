@@ -1,6 +1,6 @@
 # smartfarmland
 
-A new Flutter application.
+A new Flutter application to develop a smart farmland app.To get the humidity and temperatue with api and automate the irigation system through the app .
 
 ## Getting Started
 
