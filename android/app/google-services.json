@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "231136666227",
+    "firebase_url": "https://smart-farmland.firebaseio.com",
+    "project_id": "smart-farmland",
+    "storage_bucket": "smart-farmland.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231136666227:android:5caed8008a0196708c8006",
+        "android_client_info": {
+          "package_name": "smartfarmlandcom.smartfarmland"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "231136666227-8v879273lbvgic4igafc993af7f8bmrq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "smartfarmlandcom.smartfarmland",
+            "certificate_hash": "a363f1d36eb5664ba175a94c9341f8cc5b94aeb9"
+          }
+        },
+        {
+          "client_id": "231136666227-evpsduo50hbso0eoq0mkdc9ccmt4q4f7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxTDGK_Fidf5Ci57j9D_8IW1jyP1p0J9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "231136666227-evpsduo50hbso0eoq0mkdc9ccmt4q4f7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
